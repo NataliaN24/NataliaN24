@@ -1,8 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&width=500&lines=Hi+there%2C+I'm+Natalia+%F0%9F%91%8B;Software+Engineering+Student;Developer+%7C+Problem+Solver)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&width=500&lines=Hi+there%2C+I'm+Natalia+%F0%9F%91%8B;Software+Engineering+Student;Developer+%7C+Problem+Solver" />
 
 </div>
+
 
 ---
 
