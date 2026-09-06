@@ -27,11 +27,4 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NataliaN24&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-
-</div>
 
