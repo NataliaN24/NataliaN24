@@ -44,4 +44,11 @@
 
 ---
 
----
+### 🟩 Contributions
+
+<div align="center">
+
+<img src="https://ssr-contributions-svg.vercel.app/_/NataliaN24?chart=calendar&format=svg" alt="GitHub Contributions" />
+
+</div>
+
