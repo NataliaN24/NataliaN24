@@ -15,7 +15,6 @@
 
 ---
 
-### Languages & Tools
 
 ### 💻 Languages & Tools
 
