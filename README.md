@@ -16,15 +16,15 @@
 
 ### Languages & Tools
 
+### 💻 Languages & Tools
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,html,css,js,r&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=cpp,c,bash,java,python,html,css,js,sql,git,github&theme=dark" />
 
-![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logoColor=white)
-![XSLT](https://img.shields.io/badge/XSLT-005C84?style=for-the-badge&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge)
+![XSLT](https://img.shields.io/badge/XSLT-005C84?style=for-the-badge)
 
 </div>
-
----
 
 
