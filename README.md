@@ -31,24 +31,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NataliaN24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaN24&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NataliaN24&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🟩 Contributions
-
-<div align="center">
-
-<img src="https://ssr-contributions-svg.vercel.app/_/NataliaN24?chart=calendar&format=svg" alt="GitHub Contributions" />
+<img src="https://github-readme-stats.vercel.app/api?username=NataliaN24&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
 
 </div>
 
