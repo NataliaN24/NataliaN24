@@ -22,9 +22,9 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,c,bash,html,css,js,git,github&theme=dark" />
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge)
-![XSLT](https://img.shields.io/badge/XSLT-005C84?style=for-the-badge)
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XSLT-005C84?style=for-the-badge" />
 
 </div>
 
